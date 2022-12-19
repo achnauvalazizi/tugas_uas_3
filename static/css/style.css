@@ -1,0 +1,8 @@
+#nauval {
+    background: url("/static/img/background.jpeg");
+    height:845px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain, cover;
+    position: relative;
+}
